@@ -1,3 +1,5 @@
+//START
+
 btnCreate.onclick = function() {
     ChangeForm(resgistrationPage)
 }
