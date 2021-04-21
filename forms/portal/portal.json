@@ -54,6 +54,15 @@
         "Elements",
         "btnSignIn.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "portal",
+        "Elements",
+        "imgJay.json"
+      ]
     }
   ],
   "class": "",
